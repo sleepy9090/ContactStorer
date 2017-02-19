@@ -1,0 +1,14 @@
+﻿CREATE TABLE [dbo].[ContactsTable] (
+    [Id]           INT            IDENTITY(1,1) NOT NULL,
+    [FirstName]    NVARCHAR (MAX) NULL,
+    [LastName]     NVARCHAR (MAX) NULL,
+    [EmailAddress] NVARCHAR (MAX) NULL,
+    [PhoneNumber]  NVARCHAR (MAX) NULL,
+    [HomeAddress]  NVARCHAR (MAX) NULL,
+    [City]         NVARCHAR (MAX) NULL,
+    [State]        NVARCHAR (MAX) NULL,
+    [Zip]          NVARCHAR (MAX) NULL,
+    [Active]       INT            NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

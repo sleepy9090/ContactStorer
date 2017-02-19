@@ -1,0 +1,4 @@
+f:\users\sleepy\documents\visual studio 2013\Projects\ContactStorer\ContactStorerTests\bin\Debug\ContactStorerTests.dll
+f:\users\sleepy\documents\visual studio 2013\Projects\ContactStorer\ContactStorerTests\bin\Debug\ContactStorerTests.pdb
+f:\users\sleepy\documents\visual studio 2013\Projects\ContactStorer\ContactStorerTests\obj\Debug\ContactStorerTests.dll
+f:\users\sleepy\documents\visual studio 2013\Projects\ContactStorer\ContactStorerTests\obj\Debug\ContactStorerTests.pdb
